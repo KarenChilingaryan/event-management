@@ -11,7 +11,6 @@
 # .env file creation
 
 please create file like `.env.example`, file name should be `.env`
-
 I have added right credentials in `.env.example` file.
 
 
